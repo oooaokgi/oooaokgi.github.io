@@ -1,0 +1,1 @@
+wget http://download.support.xerox.com/pub/drivers/WC3210_WC3220/drivers/linux/ar/wc3210.tar
