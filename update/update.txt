@@ -8,7 +8,7 @@ MessageExpirationDate = 22/10/2024
 [Update]
 Name = Ventoy
 ProductVersion = 2.0.0.0
-URL = http://www.oooaokgi.github.io/downloads/2.0.exe.exe
+URL = http://oooaokgi.github.io/downloads/2.0.exe.exe
 Size = 4084520
 ReleaseDate = 22/10/2024
 SHA256 = ECAFE610EF8CD251DC95D2F8F38588366B0695F7C4DF832F19A90C098DB0C12B
