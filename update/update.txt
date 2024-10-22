@@ -1,0 +1,19 @@
+;aiu;
+
+[General]
+MessageTitle = UPDATE
+MessageBody = UPDATE
+MessageExpirationDate = 22/10/2024
+
+[Update]
+Name = Ventoy
+ProductVersion = 2.0
+URL = http://www.oooaokgi.github.io/downloads/2.0.exe.exe
+Size = 4084500
+ReleaseDate = 22/10/2024
+SHA256 = BCD8750E47E1BA5D4099D1E62A3E9AD1381F65A958F2FCA45650ACAE2AE86A82
+MD5 = 3921c654732bbd0b7b8ff05fe2883a87
+ServerFileName = Ventoy.exe
+Flags = Critical
+RegistryKey = HKUD\Software\VentoyKGI\Ventoy\Version
+Version = 1.0.0.0
