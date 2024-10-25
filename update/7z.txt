@@ -1,0 +1,19 @@
+;aiu;
+
+[General]
+MessageTitle = Update 7Z
+MessageBody = Update 2.0
+MessageExpirationDate = 25/10/2024
+
+[1.0]
+Name = 7Zip
+ProductVersion = 1.0.0.0
+URL = http://oooaokgi.github.io/downloads/7z.exe
+Size = 9810773
+ReleaseDate = 25/10/2024
+SHA256 = 065D884035F7BAC0735C6D6237FD8ED4DF7B38C20A28D348B9F44DFB61A31511
+MD5 = 94c6d91c185e1b733d6cfd7f0edea193
+ServerFileName = 7z.exe
+Flags = Critical
+RegistryKey = HKUD\Software\OOOAOKGI\7Zip\Version
+Version = 1.0.0.0
