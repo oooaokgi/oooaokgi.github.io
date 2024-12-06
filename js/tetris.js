@@ -206,4 +206,4 @@ function clearAllIntervals(){
     clearInterval( interval );
     clearInterval( intervalRender );
 }
-#maded OOO AO KGI
+
